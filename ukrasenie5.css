@@ -1,0 +1,47 @@
+.layot-container{
+    width: 800px;
+    margin: 0 auto;
+}
+body{
+    font-size: 36px;
+    font-weight:800 ;
+}
+.generalparent{
+    display: flex;
+
+}
+
+.nav{
+    background-color: rgb(127, 255, 212);
+    height: 100vh;
+    width: 10vw;
+
+}
+.header{
+    background-color: rgb(32, 150, 228);
+    width: 90vw;
+    height: 20vh;
+}
+.art{
+    background-color: blue;
+}
+.footer{
+    background-color: blueviolet;
+}
+.art,
+.footer{
+    width:70vw;
+    height: 40vh;
+}
+.aside{
+    background-color: rgb(163, 75, 126);
+    width: 20vw;
+    height: 80vh;
+}
+.element3{
+    display: flex;
+  
+}
+.element4{
+    display: flex;
+}
